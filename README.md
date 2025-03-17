@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maldonae
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning html/Javascript/CSS/React
+- 🌱 I’m currently learning Html/CSS/Javascript/React/Express/Mysql
 - 💞️ I’m looking to collaborate on anything
 <!---
 maldonae/maldonae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
