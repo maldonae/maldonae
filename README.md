@@ -6,14 +6,19 @@
 **Framer**, **Bubble**, **Lovable**, **Airtable**, **Notion**, **MAKE**, **n8n**, **Bolt.new**, **ChatGPT**, **OpenAI**, **Claude Code**, and **Perplexity**.
 
 💻 I also have hands-on experience in traditional development with:  
-**HTML**, **CSS**, **JavaScript**, **React**, **Express**, and **MySQL**.
+**HTML**, **CSS**, **JavaScript**, **React**, **Express**, **Node.js**, and **MySQL**.
 
 🤝 I’m open to collaborations on tech, automation, and no-code projects — especially those related to **peer-to-peer marketplaces** and **SaaS innovation**.
 
 ## 📊 GitHub Stats (Shields.io ✅)
 <div align="center">
+  
   ![Repos](https://img.shields.io/github/repo-size/maldonae/maldonae?color=radical&label=Repos&logo=github)
   ![Followers](https://img.shields.io/github/followers/maldonae?color=radical&label=Followers&logo=github)
+  
+  ![Top Langs](https://img.shields.io/badge/JavaScript-36%25-blue&logo=javascript&logoColor=yellow)
+  ![React](https://img.shields.io/badge/React-61%25-blue&logo=react&logoColor=teal)
+  
 </div>
 
 ## 🔥 Streak Stats (✅ Fonctionne)
@@ -21,11 +26,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maldonae&theme=dark&hide_border=true" height="180"/>
 </div>
 
-## 🌐 Portfolio & Contact
-<div align="center">
-  **[Portfolio](https://portfolio-eric-maldonado.vercel.app/)** • **[LinkedIn](https://www.linkedin.com/in/maldonado-eric/)**
-</div>
+## 📫 Contact  
+**[LinkedIn](https://www.linkedin.com/in/maldonado-eric/)**
 
+## 🌐 Portfolio
+**[Portfolio](https://portfolio-eric-maldonado.vercel.app/)**
 
 
 
