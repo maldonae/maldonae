@@ -10,12 +10,16 @@
 
 🤝 I’m open to collaborations on tech, automation, and no-code projects — especially those related to **peer-to-peer marketplaces** and **SaaS innovation**.
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Shields.io ✅)
 <div align="center">
-  <!-- Alternative fiable : omsimos/github-stats -->
-  <img src="https://github-stats-omsimos.vercel.app/api?username=maldonae&theme=dark&show_icons=true" height="180"/> 
-  <img src="https://github-stats-omsimos.vercel.app/api/top-langs/?username=maldonae&layout=compact&theme=dark" height="180"/>
-</div> [web:31]
+  
+  ![Repos](https://img.shields.io/github/repo-size/maldonae/maldonae?color=radical&label=Repos&logo=github)
+  ![Followers](https://img.shields.io/github/followers/maldonae?color=radical&label=Followers&logo=github)
+  
+  ![Top Langs](https://img.shields.io/badge/JavaScript-36%25-blue&logo=javascript&logoColor=yellow)
+  ![React](https://img.shields.io/badge/React-61%25-blue&logo=react&logoColor=teal)
+  
+</div>
 
 ## 🔥 Streak Stats (✅ Fonctionne)
 <div align="center">
