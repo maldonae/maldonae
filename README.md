@@ -13,7 +13,7 @@
 <a href="https://www.make.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Make-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make" style="max-width: 100%;"></a>
 <a href="https://n8n.io/" rel="nofollow"><img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" style="max-width: 100%;"></a>
 <a href="https://www.notion.so/" rel="nofollow"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" style="max-width: 100%;"></a>
-<a href="https://bolt.new/" rel="nofollow"><img src="https://img.shields.io/badge/-Bolt.new-000000?style=flat-square&logo=lightning&logoColor=white" alt="Bolt.new" style="max-width: 100%;"></a>
+<a href="https://bolt.new/" rel="nofollow"><img src="https://img.shields.io/badge/-Bolt.new-000000?style=flat-square&logo=lightning&logoColor=white" alt="Bolt.new" style="max-width: 100%;"></a></p>
 <a href="https://openai.com/" rel="nofollow"><img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" style="max-width: 100%;"></a>
 <a href="https://claude.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" style="max-width: 100%;"></a>
 <a href="https://www.perplexity.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity" style="max-width: 100%;"></a>
