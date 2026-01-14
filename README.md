@@ -10,7 +10,7 @@
 
 🤝 I’m open to collaborations on tech, automation, and no-code projects — especially those related to **peer-to-peer marketplaces** and **SaaS innovation**.
 
-## 📊 GitHub Stats (Shields.io ✅)
+## 📊 GitHub Stats
 <div align="center">
   
   ![Repos](https://img.shields.io/github/repo-size/maldonae/maldonae?color=radical&label=Repos&logo=github)
@@ -21,7 +21,7 @@
   
 </div>
 
-## 🔥 Streak Stats (✅ Fonctionne)
+## 🔥 Streak Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maldonae&theme=dark&hide_border=true" height="180"/>
 </div>
