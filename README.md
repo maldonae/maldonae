@@ -6,7 +6,7 @@
 
 🧩 I build and automate projects using **no-code** and **low-code** tools such as :  
 
-<a href="https://framer.com/"><img src="https://img.shields.io/badge/Framer-FF3B47?style=for-the-badge&amp&logo=framer&logoColor=white" alt="Framer" /></a>
+<a href="https://framer.com/"><img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&amp&logo=framer&logoColor=white" alt="Framer" /></a>
 <a href="https://bubble.io/"><img src="https://img.shields.io/badge/Bubble-6946F6?style=for-the-badge&amp&logo=bubble&logoColor=white" alt="Bubble" /></a>
 <a href="https://lovable.dev/" rel="nofollow"><img src="https://img.shields.io/badge/-Lovable-FF6B6B?style=for-the-badge&amp&logo=heart&logoColor=white" alt="Lovable" style="max-width: 100%;"></a>
 <a href="https://www.airtable.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Airtable-18BFFF?style=for-the-badge&amp&logo=airtable&logoColor=white" alt="Airtable" style="max-width: 100%;"></a>
