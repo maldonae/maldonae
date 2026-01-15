@@ -80,7 +80,7 @@
 ## 🌐 Portfolio
 <br>
 <br>
-**[Portfolio](https://portfolio-eric-maldonado.vercel.app/)**
+**[Portfolio](https://portfolio-eric-maldonado.vercel.app)**
 
 
 
