@@ -74,13 +74,14 @@
 ## 📫 Contact
 <br>
 <br>
-**[LinkedIn](https://www.linkedin.com/in/maldonado-eric/)**
+<a href="https://www.linkedin.com/in/maldonado-eric/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-0040FF?style=for-the-badge&logo=bubble&logoColor=white" alt="LinkedIn" style="max-width: 100%;"></a>
 <br>
 <br>
 ## 🌐 Portfolio
 <br>
 <br>
-**[Portfolio](https://portfolio-eric-maldonado.vercel.app)**
-
-
+<a href="https://portfolio-eric-maldonado.vercel.app" rel="nofollow"><img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" alt="Portfolio" style="max-width: 100%;"></a>
+</div>
+<br>
+<br>
 
