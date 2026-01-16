@@ -12,7 +12,7 @@
 <a href="https://framer.com/"><img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&amp&logo=framer&logoColor=white" alt="Framer" /></a>
 <a href="https://bubble.io/"><img src="https://img.shields.io/badge/Bubble-6946F6?style=for-the-badge&amp&logo=bubble&logoColor=white" alt="Bubble" /></a>
 <a href="https://lovable.dev/" rel="nofollow"><img src="https://img.shields.io/badge/-Lovable-FF6B6B?style=for-the-badge&amp&logo=heart&logoColor=white" alt="Lovable" style="max-width: 100%;"></a>
-<a href="https://supabase.com/" rel="nofollow"><img src="https://drive.google.com/file/d/1ehZIiPsU0yzNV5Rou1ZqlGUJZv1AAKCf/view?usp=drive_link" alt=" " style="max-width: 100%;"></a>
+<a href="https://supabase.com/" rel="nofollow"><img src="https://img.shields.io/badge/%20-Supabase-3fb950?style=for-the-badge&labelColor=1a1a1a&logo=supabase&logoColor=white" alt=" " style="max-width: 100%;"></a>
 <a href="https://www.airtable.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Airtable-18BFFF?style=for-the-badge&amp&logo=airtable&logoColor=white" alt="Airtable" style="max-width: 100%;"></a>
 <a href="https://www.make.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Make-6D00CC?style=for-the-badge&amp&logo=make&logoColor=white" alt="Make" style="max-width: 100%;"></a>
 <a href="https://n8n.io/" rel="nofollow"><img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&amp&logo=n8n&logoColor=white" alt="n8n" style="max-width: 100%;"></a>
