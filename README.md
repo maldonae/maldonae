@@ -10,8 +10,8 @@
 <br>
 <br>
 <a href="https://framer.com/"><img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&amp&logo=framer&logoColor=white" alt="Framer" /></a>
-<a href="https://bubble.io/"><img src="https://img.shields.io/badge/Bubble-6946F6?style=for-the-badge&amp&logo=bubble&logoColor=white" alt="Bubble" /></a>
-<a href="https://lovable.dev/" rel="nofollow"><img src="https://img.shields.io/badge/-Lovable-FF6B6B?style=for-the-badge&amp&logo=heart&logoColor=white" alt="Lovable" style="max-width: 100%;"></a>
+<a href="https://bubble.io/"><img src="https://i.ibb.co/svXBKtHG/badge-Bubble.png"style="height: 28px; width: auto; max-width: 100%;"></a>
+<a href="https://lovable.dev/" rel="nofollow"><img src="https://i.ibb.co/cSCPC7N3/badge-Lovable.png"style="height: 28px; width: auto; max-width: 100%;"></a>
 <a href="https://supabase.com/" rel="nofollow"><img src="https://img.shields.io/badge/%20-Supabase-3fb950?style=for-the-badge&labelColor=1a1a1a&logo=supabase&logoColor=white" alt=" " style="max-width: 100%;"></a>
 <a href="https://www.airtable.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Airtable-18BFFF?style=for-the-badge&amp&logo=airtable&logoColor=white" alt="Airtable" style="max-width: 100%;"></a>
 <a href="https://www.make.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Make-6D00CC?style=for-the-badge&amp&logo=make&logoColor=white" alt="Make" style="max-width: 100%;"></a>
@@ -20,11 +20,12 @@
 <a href="https://bolt.new/" rel="nofollow"><img src="https://img.shields.io/badge/-Bolt.new-000000?style=for-the-badge&amp&logo=lightning&logoColor=white" alt="Bolt.new" style="max-width: 100%;"></a></p>
 <a href="https://openai.com/" rel="nofollow"><img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&amp&logo=openai&logoColor=white" alt="OpenAI" style="max-width: 100%;"></a>
 <a href="https://claude.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&amp&logo=anthropic&logoColor=white" alt="Claude" style="max-width: 100%;"></a>
+<a href="https://chat.openai.com/" rel="nofollow"><img src="https://i.ibb.co/QFVcKJbT/badge-chatgpt.png"style="height: 28px; width: auto; max-width: 100%;"></a>
 <a href="https://www.perplexity.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Perplexity-20808D?style=for-the-badge&amp&logo=perplexity&logoColor=white" alt="Perplexity" style="max-width: 100%;"></a>
 <a href="https://gemini.google.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&amp&logo=googlegemini&logoColor=white" alt="Gemini" style="max-width: 100%;"></a>
 <a href="https://mistral.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Mistral-FF7000?style=for-the-badge&amp&logo=mistral&logoColor=white" alt="Mistral" style="max-width: 100%;"></a>
 <a href="https://aistudio.google.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Nano%20Banana-FFE135?style=for-the-badge&amp&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwMCIgZD0iTTcgM2MtLjUgMC0xIC41LTEgMXY0YzAgMSAuNSAyIDEgM2wxIDJjMCAyIDEgNCAxIDVzMCAxIC41IDFoNWMuNSAwIC41IDAgLjUtMXMxLTMgMS01bDEtMmMuNS0xIDEtMiAxLTNWNGMwLS41LS41LTEtMS0xSDd6Ii8+PC9zdmc+&logoColor=black" alt="Nano Banana" style="max-width: 100%;"></a>
-<a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-0DA4FA?style=for-the-badge&amp&logo=openai&logoColor=white" alt="ChatGPT" /></a></p>
+</p>
 <br>
 <br>
 💻 I also have hands-on experience in traditional development with :  
