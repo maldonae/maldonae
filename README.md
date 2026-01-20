@@ -71,6 +71,20 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maldonae&theme=dark&hide_border=true" height="180"/>
 </div>
+<picture>
+  <source 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=maldonae&theme=rogue&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=maldonae&theme=github-light&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=maldonae"
+    alt="GitHub Activity Graph"
+  />
+</picture>
 <br>
 <br>
 ## 📫 Contact
