@@ -73,7 +73,7 @@
 </div>
 <picture>
   <source 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=maldonae&theme=rogue&hide_border=true"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=maldonae&theme=dracula&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source 
