@@ -101,3 +101,8 @@
 <br>
 <br>
 
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=maldonae&style=flat-square&color=58a6ff)
+
+</div>
