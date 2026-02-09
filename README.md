@@ -21,7 +21,6 @@
 <a href="https://openai.com/" rel="nofollow"><img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&amp&logo=openai&logoColor=white" alt="OpenAI" style="max-width: 100%;"></a>
 <a href="https://claude.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&amp&logo=anthropic&logoColor=white" alt="Claude" style="max-width: 100%;"></a>
 <a href="https://chatgpt.com/" rel="nofollow"><img src="https://img.shields.io/badge/-ChatGPT-ffffff?style=flat-square&labelColor=555555&logo=clojure&logoColor=white" alt="ChatGPT" style="max-width: 100%;"></a>
-<a href="https://chatgpt.com/"><img src="https://i.ibb.co/QFVcKJbT/badge-chatgpt.png"style="height: 28px; width: auto; max-width: 100%;"></a>
 <a href="https://www.perplexity.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Perplexity-20808D?style=for-the-badge&amp&logo=perplexity&logoColor=white" alt="Perplexity" style="max-width: 100%;"></a>
 <a href="https://gemini.google.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&amp&logo=googlegemini&logoColor=white" alt="Gemini" style="max-width: 100%;"></a>
 <a href="https://mistral.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Mistral-FF7000?style=for-the-badge&amp&logo=mistral&logoColor=white" alt="Mistral" style="max-width: 100%;"></a>
