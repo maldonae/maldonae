@@ -20,7 +20,7 @@
 <a href="https://bolt.new/" rel="nofollow"><img src="https://img.shields.io/badge/-Bolt.new-000000?style=for-the-badge&amp&logo=lightning&logoColor=white" alt="Bolt.new" style="max-width: 100%;"></a></p>
 <a href="https://openai.com/" rel="nofollow"><img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&amp&logo=openai&logoColor=white" alt="OpenAI" style="max-width: 100%;"></a>
 <a href="https://claude.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&amp&logo=anthropic&logoColor=white" alt="Claude" style="max-width: 100%;"></a>
-<a href="https://chatgpt.com/" rel="nofollow"><img src="https://img.shields.io/badge/-ChatGPT-ffffff?style=flat-square&labelColor=555555&logo=clojure&logoColor=white" alt="ChatGPT" style="max-width: 100%;"></a>
+<a href="https://chatgpt.com/" rel="nofollow"><img src="https://img.shields.io/badge/-ChatGPT-ffffff?style=for-the-badge&labelColor=555555&logo=clojure&logoColor=white" alt="ChatGPT" style="max-width: 100%;"></a>
 <a href="https://www.perplexity.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Perplexity-20808D?style=for-the-badge&amp&logo=perplexity&logoColor=white" alt="Perplexity" style="max-width: 100%;"></a>
 <a href="https://gemini.google.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&amp&logo=googlegemini&logoColor=white" alt="Gemini" style="max-width: 100%;"></a>
 <a href="https://mistral.ai/" rel="nofollow"><img src="https://img.shields.io/badge/-Mistral-FF7000?style=for-the-badge&amp&logo=mistral&logoColor=white" alt="Mistral" style="max-width: 100%;"></a>
@@ -42,7 +42,7 @@
 <a href="https://restfulapi.net/" rel="nofollow"><img src="https://img.shields.io/badge/-API%20REST-006400?style=for-the-badge&amp;;logo=cloudflare&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://git-scm.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&logoColor=white" alt="Git" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&logoColor=white" alt="VS Code" style="max-width: 100%;"></a>
-<a href="https://www.figma.com/fr-fr/" rel="nofollow"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 90%;"></a></p>
+<a href="https://www.figma.com/fr-fr/" rel="nofollow"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;"></a></p>
 <br>
 <br>
 🤝 I’m open to collaborations on tech, automation, and no-code projects — especially those related to **peer-to-peer marketplaces** and **SaaS innovation**.
