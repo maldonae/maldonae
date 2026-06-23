@@ -53,23 +53,34 @@
 <br>
 <br>
 <div align="center">
-
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=maldonae&show_icons=true&theme=tokyonight&hide_border=true&card_width=500"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=maldonae&layout=donut&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
   
   ![Repos](https://img.shields.io/github/repo-size/maldonae/maldonae?color=radical&label=Repos&logo=github)
   ![Followers](https://img.shields.io/github/followers/maldonae?color=radical&label=Followers&logo=github)
   
-  ![Top Langs](https://img.shields.io/badge/JavaScript-36%25-blue&logo=javascript&logoColor=yellow)
-  ![React](https://img.shields.io/badge/React-61%25-blue&logo=react&logoColor=teal)
-  
 </div>
-<br>
 <br>
 <br>
 ## 🔥 Streak Stats
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maldonae&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maldonae&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 <picture>
   <source 
