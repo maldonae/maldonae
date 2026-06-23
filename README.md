@@ -57,7 +57,7 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=maldonae&show_icons=true&theme=tokyonight&hide_border=true&card_width=500"
+        src="https://github-readme-stats.vercel.app/api?username=maldonae&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&card_width=500"
         alt="GitHub Stats"
       />
     </td>
