@@ -10,8 +10,8 @@
 <br>
 <br>
 <a href="https://framer.com/"><img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&amp&logo=framer&logoColor=white" alt="Framer" /></a>
-<a href="https://bubble.io/"><img src="https://i.ibb.co/svXBKtHG/badge-Bubble.png"style="height: 28px; width: auto; max-width: 100%;"></a>
-<a href="https://lovable.dev/" rel="nofollow"><img src="https://i.ibb.co/cSCPC7N3/badge-Lovable.png"style="height: 28px; width: auto; max-width: 100%;"></a>
+<a href="https://bubble.io/"><img src="https://img.shields.io/badge/Bubble-18BFFF?style=for-the-badge&amp&logo=bubble&logoColor=white" alt="Bubble"></a>
+<a href="https://lovable.dev/" rel="nofollow"><img src="https://img.shields.io/badge/Lovable-EA4B71?style=for-the-badge&amp&logo=lovable&logoColor=white" alt="Bubble"></a>
 <a href="https://supabase.com/" rel="nofollow"><img src="https://img.shields.io/badge/%20-Supabase-3fb950?style=for-the-badge&labelColor=1a1a1a&logo=supabase&logoColor=white" alt=" " style="max-width: 100%;"></a>
 <a href="https://www.airtable.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Airtable-18BFFF?style=for-the-badge&amp&logo=airtable&logoColor=white" alt="Airtable" style="max-width: 100%;"></a>
 <a href="https://www.make.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Make-6D00CC?style=for-the-badge&amp&logo=make&logoColor=white" alt="Make" style="max-width: 100%;"></a>
