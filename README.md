@@ -92,6 +92,7 @@
 </picture>
 
 <br>
+<details>
 <h3>Mes contributions en mode Pac-Man</h3>
 
 <picture>
@@ -109,6 +110,8 @@
     width="100%"
   />
 </picture>
+</details>
+
 <details>
   <summary>Voir mes contributions en mode Breakout</summary>
 
