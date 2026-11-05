@@ -92,9 +92,9 @@
 </picture>
 
 <br>
-
-<h3>Mes contributions en mode Pac-Man</h3>
 <details>
+<h3>Mes contributions en mode Pac-Man</h3>
+<br>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
