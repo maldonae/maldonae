@@ -97,7 +97,7 @@
 
 <div align="center">
   <img
-    src="./profile-3d-contrib/profile-night-green.svg"
+    src="./profile-3d-contrib/profile-green-animate.svg"
     alt="Calendrier de mes contributions GitHub en 3D — thème nocturne vert"
     width="100%"
   />
