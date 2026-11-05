@@ -138,6 +138,52 @@
 
 </details>
 
+<details>
+  <summary>Voir mes contributions en mode Galaga</summary>
+
+  <br>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/maldonae/maldonae/arcade/galaga-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/maldonae/maldonae/arcade/galaga-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/maldonae/maldonae/arcade/galaga-contribution-graph-dark.svg"
+      alt="Animation Galaga sur mes contributions GitHub"
+      width="100%"
+    />
+  </picture>
+
+</details>
+
+<details>
+  <summary>Voir mes contributions en mode Tetris</summary>
+
+  <br>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/maldonae/maldonae/arcade/tetris-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/maldonae/maldonae/arcade/tetris-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/maldonae/maldonae/arcade/tetris-contribution-graph-dark.svg"
+      alt="Animation Tetris sur mes contributions GitHub"
+      width="100%"
+    />
+  </picture>
+
+</details>
+
 <h3>Mon activité GitHub en 3D</h3>
 
 <div align="center">
