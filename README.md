@@ -1,3 +1,13 @@
+<!-- Bannière Capsule Render -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:14532d&amp;height=220&amp;section=header&amp;text=Eric%20Maldonado&amp;fontSize=46&amp;fontColor=39ff14&amp;desc=Product%20Builder%20-%20Automation%20-%20AI&amp;descSize=18&amp;descAlignY=65"
+    alt="Eric Maldonado — Product Builder, Automation, AI"
+    width="100%"
+  />
+</div>
+
+<!-- Texte animé -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&color=39ff14&center=true&width=600&lines=&#x1F44B;+Hello+World!;I'm+Eric+Maldonado;Product+Builder+No-Code+%26+IA;Full-Stack+%28JS%2FReact%29+Dev;&#x1F680;+Ready+to+collaborate!+&#x1F4BB;" alt="Eric Maldonado" />
 </div>
