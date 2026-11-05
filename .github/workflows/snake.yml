@@ -5,16 +5,20 @@ on:
   schedule:
     - cron: "0 3 * * *"
 
-  # Permet le lancement manuel depuis l'onglet Actions
+  # Lancement manuel depuis Actions
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-snake
+  cancel-in-progress: false
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
-    permissions:
-      contents: write
 
     steps:
       - name: Generate snake animations
@@ -24,6 +28,207 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Add month and day labels
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          python3 <<'PY'
+          import json
+          import os
+          import re
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import date
+          from pathlib import Path
+
+          query = """
+          query($login: String!) {
+            user(login: $login) {
+              contributionsCollection {
+                contributionCalendar {
+                  weeks {
+                    contributionDays {
+                      date
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          payload = json.dumps({
+              "query": query,
+              "variables": {"login": os.environ["GH_USER"]}
+          }).encode()
+
+          request = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=payload,
+              headers={
+                  "Authorization": "Bearer " + os.environ["GH_TOKEN"],
+                  "Content-Type": "application/json",
+                  "User-Agent": "github-snake-labels"
+              }
+          )
+
+          with urllib.request.urlopen(request, timeout=60) as response:
+              result = json.load(response)
+
+          if result.get("errors"):
+              raise RuntimeError(json.dumps(result["errors"]))
+
+          weeks = result["data"]["user"]["contributionsCollection"][
+              "contributionCalendar"
+          ]["weeks"]
+
+          months = [
+              "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+              "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+          ]
+          days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+          namespace = {"svg": "http://www.w3.org/2000/svg"}
+
+          for filename in (
+              "github-snake.svg",
+              "github-snake-dark.svg"
+          ):
+              path = Path("dist") / filename
+              content = path.read_text(encoding="utf-8")
+              root = ET.fromstring(content)
+
+              cells = [
+                  element
+                  for element in root.findall(".//svg:rect", namespace)
+                  if "c" in element.get("class", "").split()
+              ]
+
+              xs = sorted({float(cell.attrib["x"]) for cell in cells})
+              ys = sorted({float(cell.attrib["y"]) for cell in cells})
+
+              if len(xs) != len(weeks) or len(ys) != 7:
+                  raise RuntimeError(
+                      "La géométrie du SVG ne correspond pas "
+                      "au calendrier GitHub."
+                  )
+
+              # Vérifie les lignes de chaque semaine avant d'ajouter les mois.
+              for x, week in zip(xs, weeks):
+                  actual_rows = {
+                      ys.index(float(cell.attrib["y"]))
+                      for cell in cells
+                      if float(cell.attrib["x"]) == x
+                  }
+                  expected_rows = {
+                      (date.fromisoformat(day["date"]).weekday() + 1) % 7
+                      for day in week["contributionDays"]
+                  }
+                  if actual_rows != expected_rows:
+                      raise RuntimeError(
+                          "Les dates et les cases du SVG ne correspondent pas."
+                      )
+
+              dark = "dark" in filename
+              color = "#9198a1" if dark else "#57606a"
+
+              labels = [
+                  '<g id="calendar-labels" '
+                  'font-family="Arial, sans-serif" '
+                  f'font-size="11" fill="{color}">'
+              ]
+
+              # Jours : une abréviation devant chaque ligne.
+              for label, y in zip(days, ys):
+                  labels.append(
+                      f'<text x="-26" y="{y + 6:g}" '
+                      'text-anchor="end" dominant-baseline="middle">'
+                      f'{label}</text>'
+                  )
+
+              # Mois : placés sur la colonne contenant le premier du mois.
+              last_label_x = None
+
+              for index, week in enumerate(weeks):
+                  dates = [
+                      date.fromisoformat(day["date"])
+                      for day in week["contributionDays"]
+                  ]
+
+                  first_of_month = next(
+                      (day for day in dates if day.day == 1),
+                      None
+                  )
+
+                  if index == 0:
+                      month_date = dates[0]
+                  elif first_of_month:
+                      month_date = first_of_month
+                  else:
+                      continue
+
+                  x = xs[index]
+
+                  # Évite deux libellés superposés au bord gauche.
+                  if last_label_x is not None and x - last_label_x < 32:
+                      continue
+
+                  labels.append(
+                      f'<text x="{x:g}" y="-24">'
+                      f'{months[month_date.month - 1]}</text>'
+                  )
+                  last_label_x = x
+
+              labels.append("</g>")
+
+              # Agrandit le cadre sans déplacer les cases ni le serpent.
+              vx, vy, width, height = map(
+                  float, root.attrib["viewBox"].split()
+              )
+              new_x = min(vx, -64)
+              new_y = min(vy, -48)
+              new_width = vx + width - new_x
+              new_height = vy + height - new_y
+
+              opening = re.search(r"<svg\b[^>]*>", content)
+              if opening is None:
+                  raise RuntimeError("Balise SVG introuvable.")
+
+              tag = opening.group(0)
+              tag = re.sub(
+                  r'\bviewBox="[^"]*"',
+                  f'viewBox="{new_x:g} {new_y:g} '
+                  f'{new_width:g} {new_height:g}"',
+                  tag
+              )
+              tag = re.sub(
+                  r'\bwidth="[^"]*"',
+                  f'width="{new_width:g}"',
+                  tag
+              )
+              tag = re.sub(
+                  r'\bheight="[^"]*"',
+                  f'height="{new_height:g}"',
+                  tag
+              )
+
+              content = (
+                  content[:opening.start()]
+                  + tag
+                  + content[opening.end():]
+              )
+
+              content = content.replace(
+                  "</svg>",
+                  "".join(labels) + "</svg>",
+                  1
+              )
+
+              ET.fromstring(content)
+              path.write_text(content, encoding="utf-8")
+              print(f"Labels added: {path}")
+          PY
 
       - name: Publish animations to output branch
         uses: crazy-max/ghaction-github-pages@v4
