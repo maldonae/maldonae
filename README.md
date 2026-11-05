@@ -91,6 +91,20 @@
   />
 </picture>
 
+<br>
+
+<h3>Mon activité GitHub en 3D</h3>
+
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-green.svg"
+    alt="Calendrier de mes contributions GitHub en 3D — thème nocturne vert"
+    width="100%"
+  />
+</div>
+
+<br>
+
 ## 📊 GitHub Stats
 
 <br>
