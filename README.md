@@ -9,11 +9,21 @@
 
 <!-- Texte animé -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&color=39ff14&center=true&width=600&lines=&#x1F44B;+Hello+World!;I'm+Eric+Maldonado;Product+Builder+No-Code+%26+IA;Full-Stack+%28JS%2FReact%29+Dev;&#x1F680;+Ready+to+collaborate!+&#x1F4BB;" alt="Eric Maldonado" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;size=28&amp;duration=4000&amp;pause=1000&amp;color=39ff14&amp;center=true&amp;width=600&amp;lines=Hello+World!;I+build+digital+products;I+automate+workflows;Full-Stack+%28JS%2FReact%29+Dev;Ready+to+collaborate!"
+    alt="Digital products, automation and full-stack development"
+    width="600"
+  />
 </div>
+
 <br>
 <br>
-🚀 **Product Builder & No-Code Developer** passionate about creating digital products and scalable SaaS platforms.
+
+<p>
+  🚀 <strong>Product Builder &amp; No-Code Developer</strong>
+  passionate about creating digital products and scalable SaaS platforms.
+</p>
+
 <br>
 <br>
 🧩 I build and automate projects using **no-code** and **low-code** tools such as :  
