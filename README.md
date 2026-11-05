@@ -73,7 +73,7 @@
 
 <br>
 
-<h3>🐍 My GitHubcontributions</h3>
+<h3>🐍 My GitHub contributions</h3>
 
 <picture>
   <source
