@@ -95,11 +95,13 @@
 
 <h3>Mon activité GitHub en 3D</h3>
 
+<h3>Mon activité GitHub en 3D</h3>
+
 <div align="center">
   <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    alt="Calendrier de mes contributions GitHub en 3D — thème nocturne vert"
-    width="100%"
+    src="./profile-3d-contrib/profile-night-green.svg"
+    alt="Mon calendrier de contributions GitHub en 3D"
+    width="850"
   />
 </div>
 
@@ -135,27 +137,43 @@
 
 <br>
 <br>
-## 🔥 Streak Stats
-<br>
-<br>
+<h3>🔥 Streak Stats</h3>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maldonae&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=maldonae&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Série de contributions GitHub — Eric Maldonado"
+    width="550"
+  />
 </div>
-<picture>
-  <source 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=maldonae&theme=dracula&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=maldonae&theme=github-light&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=maldonae"
-    alt="GitHub Activity Graph"
-  />
-</picture>
+
 <br>
+
+<details>
+  <summary>Voir mon graphique d’activité GitHub</summary>
+
+  <br>
+
+  <div align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=maldonae&amp;theme=dracula&amp;hide_border=true"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=maldonae&amp;theme=github-light&amp;hide_border=true"
+      />
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=maldonae&amp;theme=dracula&amp;hide_border=true"
+        alt="Graphique d’activité GitHub — Eric Maldonado"
+        width="100%"
+      />
+    </picture>
+  </div>
+
+</details>
+
 <br>
 ## 📫 Contact
 <br>
