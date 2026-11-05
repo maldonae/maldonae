@@ -95,8 +95,6 @@
 
 <h3>Mon activité GitHub en 3D</h3>
 
-<h3>Mon activité GitHub en 3D</h3>
-
 <div align="center">
   <img
     src="./profile-3d-contrib/profile-night-green.svg"
