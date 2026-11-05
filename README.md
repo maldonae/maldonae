@@ -68,30 +68,33 @@
 </picture>
 
 ## 📊 GitHub Stats
+
 <br>
-<br>
+
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=maldonae&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&card_width=500"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=maldonae&layout=donut&theme=tokyonight&hide_border=true"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-  
-  ![Repos](https://img.shields.io/github/repo-size/maldonae/maldonae?color=radical&label=Repos&logo=github)
-  ![Followers](https://img.shields.io/github/followers/maldonae?color=radical&label=Followers&logo=github)
-  
+  <img
+    src="./assets/github-stats.svg"
+    alt="GitHub Stats — Eric Maldonado"
+    height="180"
+  />
+  <img
+    src="./assets/top-langs.svg"
+    alt="Top Languages — Eric Maldonado"
+    height="180"
+  />
+
+  <br /><br />
+
+  <img
+    src="https://img.shields.io/github/repo-size/maldonae/maldonae?color=58a6ff&amp;label=Profile%20repo%20size&amp;logo=github"
+    alt="Profile repository size"
+  />
+  <img
+    src="https://img.shields.io/github/followers/maldonae?color=58a6ff&amp;label=Followers&amp;logo=github"
+    alt="GitHub followers"
+  />
 </div>
+
 <br>
 <br>
 ## 🔥 Streak Stats
