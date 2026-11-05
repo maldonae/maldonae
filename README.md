@@ -92,6 +92,45 @@
 </picture>
 
 <br>
+<h3>Mes contributions en mode Pac-Man</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/maldonae/maldonae/arcade/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/maldonae/maldonae/arcade/pacman-contribution-graph.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/maldonae/maldonae/arcade/pacman-contribution-graph-dark.svg"
+    alt="Animation Pac-Man sur mes contributions GitHub"
+    width="100%"
+  />
+</picture>
+<details>
+  <summary>Voir mes contributions en mode Breakout</summary>
+
+  <br>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/maldonae/maldonae/arcade/breakout-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/maldonae/maldonae/arcade/breakout-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/maldonae/maldonae/arcade/breakout-contribution-graph-dark.svg"
+      alt="Animation Breakout sur mes contributions GitHub"
+      width="100%"
+    />
+  </picture>
+
+</details>
 
 <h3>Mon activité GitHub en 3D</h3>
 
