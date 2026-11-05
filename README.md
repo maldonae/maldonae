@@ -45,7 +45,13 @@
 <a href="https://www.figma.com/fr-fr/" rel="nofollow"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;"></a></p>
 <br>
 <br>
-🤝 I’m open to collaborations on tech, automation, and no-code projects — especially those related to **peer-to-peer marketplaces** and **SaaS innovation**.
+
+<p>
+  🤝 I’m open to collaborations on tech, automation, and no-code projects
+  — especially those related to <strong>peer-to-peer marketplaces</strong>
+  and <strong>SaaS innovation</strong>.
+</p>
+
 <br>
 <br>
 <br>
