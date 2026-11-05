@@ -23,7 +23,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman,breakout"
+          games: "pacman,breakout,galaga,tetris"
           hide_month_labels: "false"
 
       - name: Publish animations to arcade branch
