@@ -44,7 +44,6 @@
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&logoColor=white" alt="VS Code" style="max-width: 100%;"></a>
 <a href="https://www.figma.com/fr-fr/" rel="nofollow"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;"></a></p>
 <br>
-<br>
 
 <p>
   🤝 I’m open to collaborations on tech, automation, and no-code projects
@@ -53,8 +52,7 @@
 </p>
 
 <br>
-<br>
-<br>
+
 <h3>🐍 Mes contributions GitHub</h3>
 
 <picture>
