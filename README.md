@@ -59,7 +59,7 @@
 <a href="https://fr.reactjs.org/" rel="nofollow"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" style="max-width: 100%;"></a>
 <a href="https://nodejs.org/fr" rel="nofollow"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://expressjs.com/fr/" rel="nofollow"><img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://restfulapi.net/" rel="nofollow"><img src="https://img.shields.io/badge/-API%20REST-006400?style=for-the-badge&amp;;logo=cloudflare&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://restfulapi.net/" rel="nofollow"><img src="https://img.shields.io/badge/-API%20REST-006400?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://git-scm.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&logoColor=white" alt="Git" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&logoColor=white" alt="VS Code" style="max-width: 100%;"></a>
 <a href="https://www.figma.com/fr-fr/" rel="nofollow"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;"></a></p>
